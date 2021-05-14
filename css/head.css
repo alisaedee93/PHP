@@ -1,0 +1,69 @@
+#formha{
+	
+	width: 750px;
+	padding-top: 12px;
+}
+.imga{
+	width: 110px;
+	height: 45px;
+	border-radius: 8px;
+	margin-left: 10px;
+}
+
+.headee{
+	color: #ffcc80;
+	
+}
+  
+.navi{
+	
+	background-color: #000000;
+	
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	padding-bottom: 10px;
+}
+.navb{
+	color: white;
+	
+}
+
+
+.sea{
+	 background-color: #ca9b52;
+
+	 color: #212121;
+
+	 border: none;
+		border-bottom-right-radius: 8px;-radius: 8px;
+
+	   }
+
+.sea:focus{
+		background-color: #ca9b52;
+		
+		
+	   }
+
+.sea::placeholder{
+		   color: #212121;
+	   }
+
+.foot{
+		margin-top: 0px;
+	  }
+.lia{
+	
+	border-radius: 5px;
+	border-bottom:1px double black;
+
+}
+.lia:hover{
+	border-bottom:1px double red;
+
+}
+.collapse{
+	margin: 0px;
+	padding: 0px;
+}
+	  
